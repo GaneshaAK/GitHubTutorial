@@ -27,8 +27,4 @@ public class GibHubTutorial {
         
         System.out.println("Test");
     }
-
-    public void x() {
-        int x = 2+6;
-    }
 }
