@@ -9,7 +9,8 @@ package gibhubtutorial;
  *
  * @author hp
  */
-public class GibHubTutorial {
+public class GibHubTutorial
+{
     /**
      * @param args the command line arguments
      */
@@ -24,8 +25,11 @@ public class GibHubTutorial {
         System.out.println(c);
     }
     
-    
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Welcome!...");
+    }
+    public void display(){
+        System.out.println("Value of a :"+a);
     }
 }
