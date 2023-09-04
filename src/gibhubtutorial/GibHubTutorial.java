@@ -26,8 +26,11 @@ public class GibHubTutorial
         System.out.println(c);
     }
     
-    
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Welcome!...");
+    }
+    public void display(){
+        System.out.println("Value of a :"+a);
     }
 }
