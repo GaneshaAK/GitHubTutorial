@@ -9,8 +9,8 @@ package gibhubtutorial;
  *
  * @author hp
  */
-public class GibHubTutorial
-{
+public class GibHubTutorial {
+    int b = 59;
     /**
      * @param args the command line arguments
      */
